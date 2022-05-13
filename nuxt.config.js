@@ -41,6 +41,14 @@ export default {
     baseURL: '/',
   },
 
+  // Thx to https://www.youtube.com/watch?v=UE9Y6Rq5AN0
+  serverMiddleware: [
+    {
+      path: "/pa11y-api",
+      handler: "~/serverMiddleware/pa11y"
+    }
+  ],
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
 }
