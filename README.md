@@ -5,6 +5,7 @@ _Work in progress_
 Integrate [pa11y](https://pa11y.org/) as serverMiddleware in NuxtJS.
 
 Demo: https://pa11y-nuxt.onrender.com/
+(Runs on free plan on [render](https://render.com), can be offline if limit is reached)
 
 Checkout https://github.com/mandrasch/pa11y-express as well.
 
