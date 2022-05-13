@@ -42,8 +42,8 @@ export default {
       // TODO: how to get the correct url for server?!
       // https://axios.nuxtjs.org/usage/
       const results = await this.$axios.$post(
-        //'/pa11y-api/',
-        'http://localhost:3000/pa11y-api/',
+        '/pa11y-api/',
+        //'http://localhost:3000/pa11y-api/',
         {
           url: this.url,
         },
