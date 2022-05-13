@@ -1,6 +1,10 @@
 # pa11y-nuxt
 
-Work in progress, https://pa11y-nuxt.onrender.com/
+_Work in progress_
+
+Integrate [pa11y](https://pa11y.org/) as serverMiddleware in NuxtJS.
+
+Demo: https://pa11y-nuxt.onrender.com/
 
 Checkout https://github.com/mandrasch/pa11y-express as well.
 
