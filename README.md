@@ -1,6 +1,6 @@
 # pa11y-nuxt
 
-_Work in progress_ 👨‍🔧
+👨‍🔧 _Work in progress!_ 👨‍🔧
 
 Integrate [pa11y](https://pa11y.org/) as [serverMiddleware](https://nuxtjs.org/docs/configuration-glossary/configuration-servermiddleware/#custom-api-endpoint) in NuxtJS.
 
